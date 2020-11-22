@@ -2,7 +2,8 @@
 Filtrar por distintos campos individuales
 
 ##Objetivo
-+ Creacion de Eventos
++ Creacion de Eventos.
++ Filtrar por campos individualmente. 
 + Generar HTML en el DOM.
 
 ### Visita el proyecto.
